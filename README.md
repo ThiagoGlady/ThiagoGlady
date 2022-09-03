@@ -7,8 +7,8 @@ Atualmente estou estudando na [Trybe](https://www.betrybe.com) para me tornar um
 - 😄 Pronouns: ele/dele
 
 <br /><div align="center">
-  <img width="45%" src="link" height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoGlady&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="45%" src="link" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoGlady&layout=compact&langs_count=7&theme=dark"/>
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoGlady&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoGlady&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" />
