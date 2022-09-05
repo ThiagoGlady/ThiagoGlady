@@ -27,3 +27,26 @@ Atualmente estou estudando na [Trybe](https://www.betrybe.com) para me tornar um
   <a href = "mailto:thiagoglady@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-silva-dos-santos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+### Projetos Destaque 
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/ThiagoGlady/trivia-deluxe">Trivia Deluxe</a></h2>
+      <img width="100%" src="https://i.imgur.com/V0QdCgr.png" alt="visualização-projeto"/>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Ferramentas:</strong> HTML 5, CSS3, Bootstrap, JavaScript ES6+, React.js, Redux</em></p>
+      <p>Jogo interativo de perguntas e respostas</p>
+    </td>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/ThiagoGlady/trivia-deluxe">Trivia Deluxe</a></h2>
+      <img width="100%" src="https://i.imgur.com/V0QdCgr.png" alt="visualização-projeto"/>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Ferramentas:</strong> HTML 5, CSS3, Bootstrap, JavaScript ES6+, React.js, Redux</em></p>
+      <p>Jogo interativo de perguntas e respostas</p>
+    </td>
+  </tr>
+</table>
