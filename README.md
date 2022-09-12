@@ -41,12 +41,12 @@ Atualmente estou estudando na [Trybe](https://www.betrybe.com) para me tornar um
       <p>Jogo interativo de perguntas e respostas</p>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/ThiagoGlady/trivia-deluxe">Trivia Deluxe</a></h2>
-      <img width="100%" src="https://i.imgur.com/V0QdCgr.png" alt="visualização-projeto"/>
+      <h2 align="center"><a href="https://github.com/ThiagoGlady/recipes-app">Recipes App</a></h2>
+      <img width="100%" src="https://i.imgur.com/5KJjLQW.png" alt="visualização-projeto"/>
       <br>
       <br>
-      <p><em><strong>:wrench: Ferramentas:</strong> HTML 5, CSS3, Bootstrap, JavaScript ES6+, React.js, Redux</em></p>
-      <p>Jogo interativo de perguntas e respostas</p>
+      <p><em><strong>:wrench: Ferramentas:</strong> HTML 5, CSS3, JavaScript ES6+, React.js, Redux</em></p>
+      <p>Guia de receitas de comidas e bebidas</p>
     </td>
   </tr>
 </table>
