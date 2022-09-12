@@ -1,6 +1,6 @@
-## Olá, eu me chamo Thiago dos Santos. Meus amores são programação e humor! 🤡
+## Olá, eu me chamo Thiago dos Santos. Meus amores são programar e escrever! 💻 📝
 
-Atualmente estou estudando na [Trybe](https://www.betrybe.com) para me tornar um desenvolvedor front-end. Sou da região metropolitana do Rio de Janeiro, Brasil.
+Atualmente estou estudando na [Trybe](https://www.betrybe.com) para me tornar um desenvolvedor front-end. Sou da região metropolitana do Rio de Janeiro, Brasil. Eu entrei pra programação após começar uma faculdade de física e ter gostado mais de escrever linhas de código do que equeações! Depois que descobri sobre a Trybe, decidi me focar totalmente nessa área, e hoje em dia a minha vida é só algoritimos e histórias.
 
 - ❤️ Apaixonado por frontend e mantendo uma boa amizade com banco de dados
 - 📫 Atualmente aprendendo Typescript
