@@ -43,8 +43,10 @@ Atualmente estou estudando na [Trybe](https://www.betrybe.com) para me tornar um
       <p>Jogo interativo de perguntas e respostas</p>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/ThiagoGlady/recipes-app">Recipes App</a></h2>
-      <img width="100%" src="https://i.imgur.com/5KJjLQW.png" alt="visualização-projeto"/>
+      <h2 align="center"><a href="https://thiagoglady.github.io/recipes-app">Recipes App</a></h2>
+      <a href="https://thiagoglady.github.io/recipes-app">
+        <img width="100%" src="https://i.imgur.com/5KJjLQW.png" alt="visualização-projeto"/>
+      </a>
       <br>
       <br>
       <p><em><strong>:wrench: Ferramentas:</strong> HTML 5, CSS3, JavaScript ES6+, React.js, Redux</em></p>
