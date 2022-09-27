@@ -33,8 +33,10 @@ Atualmente estou estudando na [Trybe](https://www.betrybe.com) para me tornar um
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/ThiagoGlady/trivia-deluxe">Trivia Deluxe</a></h2>
-      <img width="100%" src="https://i.imgur.com/JE8niYt.png" alt="visualização-projeto"/>
+      <h2 align="center"><a href="https://thiagoglady.github.io/trivia-deluxe/#/">Trivia Deluxe</a></h2>
+      <a href="https://thiagoglady.github.io/trivia-deluxe/#/">
+        <img width="100%" src="https://i.imgur.com/JE8niYt.png" alt="visualização-projeto"/>
+      </a>
       <br>
       <br>
       <p><em><strong>:wrench: Ferramentas:</strong> HTML 5, CSS3, Bootstrap, JavaScript ES6+, React.js, Redux</em></p>
